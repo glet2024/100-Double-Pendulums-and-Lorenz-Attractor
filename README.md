@@ -19,7 +19,7 @@ For the first few seconds, the 100 pendulums move in seeming unison, but the sli
  
  
  # Lorenz-Attractor
-A 3D simulation of the Lorenz 3-set system of ODEs that model atmospheric convection
+A 3D simulation of the Lorenz 3-set system of ODEs that model atmospheric convection.
 
 Simulation Demo Video: 
 
@@ -30,9 +30,9 @@ https://user-images.githubusercontent.com/77819050/130301815-715be9f1-d4e5-4659-
 
 
 Using the following system of ODEs known as the Lorenz equations, I plot a dynamic solution to the system assuming the same variable values that Lorenz 
-himself used in 1963 when he developed this model
+himself used in 1963 when he developed this model.
 
-As the plotting progesses, we see the attractor takes the shape of a butterfly. It demonstrates a likeness to order within a dynamical and chaotic system
+As the plotting progesses, we see the attractor takes the shape of a butterfly. It demonstrates a likeness to order within a dynamical and chaotic system.
 
 
 The Lorenz equations implemented, along with the assumed values of the system parameters:
